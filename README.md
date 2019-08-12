@@ -7,9 +7,6 @@ Project Organization
 --------------------
 
     .
-    ├── AUTHORS.md
-    ├── LICENSE
-    ├── README.md
     ├── bin
     ├── config
     ├── data
